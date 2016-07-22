@@ -1,0 +1,2 @@
+C:\Users\asanmuganathan\Documents\Visual Studio 2015\Projects\loginApp\loginApp\obj\Debug\loginApp.njsprojResolveAssemblyReference.cache
+C:\Users\asanmuganathan\Documents\Visual Studio 2015\Projects\loginApp\loginApp\bin\Microsoft.NodejsTools.WebRole.dll
